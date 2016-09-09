@@ -1,7 +1,11 @@
 {
   "name": "s9s-ssh",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "ssh.js",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:simon-s9/s9s-ssh.git"
+  },
   "dependencies": {
     "promise": "^7.1.1",
     "ssh2": "^0.5.1"
